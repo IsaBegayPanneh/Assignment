@@ -1,0 +1,60 @@
+body{
+    background-image: url(my\ background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    border-style: outset;
+    border-radius: 5cap;
+    padding-left: 9px;
+}
+img{
+    border-radius: 20px;
+    border-style: outset;
+    border-color: blue;
+    margin-top: -15px;
+    margin-left: auto;
+    margin-left: auto;
+
+    
+}
+h1{
+    color: rgb(236, 48, 11);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+h2{
+    color: rgb(237, 233, 8);
+    font-family: fantasy;
+    text-align: center;
+}
+h3{
+    color: rgb(28, 190, 34);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+dt{
+    color: black;
+    padding-left: 15px;
+}
+dd{
+    color: rgb(227, 232, 236);
+    padding-left: 25px;
+    padding-right: 25px;
+    font-style: italic;
+}
+p{
+    color: aliceblue;
+}
